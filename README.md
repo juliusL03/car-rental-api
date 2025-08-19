@@ -51,40 +51,6 @@ Swagger UI is available at:
 
     http://localhost:4000/docs
 
-## 📂 Project Structure
-
-car-rental-api/
-
-│── prisma/
-│ └── schema.prisma # DB schema
-│── src/
-│ ├── user/
-│ │ ├── user.model.ts
-│ │ ├── user.service.ts
-│ │ ├── user.controller.ts
-│ │ └── user.routes.ts
-│ ├── car/
-│ │ ├── car.model.ts
-│ │ ├── car.service.ts
-│ │ ├── car.controller.ts
-│ │ └── car.routes.ts
-│ ├── booking/
-│ │ ├── booking.model.ts
-│ │ ├── booking.service.ts
-│ │ ├── booking.controller.ts
-│ │ └── booking.routes.ts
-│ ├── payment/
-│ │ ├── payment.model.ts
-│ │ ├── payment.service.ts
-│ │ ├── payment.controller.ts
-│ │ └── payment.routes.ts
-│ ├── middleware/
-│ │ └── auth.ts
-│ ├── app.ts
-│ └── server.ts
-│── .env
-│── package.json
-
 ## 🛠️ Tech Stack
 
 - **Node.js**
@@ -127,4 +93,4 @@ yarn test
 
 ## 📜 License
 
-MIT License © 2025 \ Julius T. Legaspi
+MIT License © 2025 - Julius T. Legaspi
